@@ -9,7 +9,7 @@
 
 - [CSS Gradient](https://cssgradient.io/)<br/>
   
-> <p>Criar gradientsl</p>
+> <p>Criar gradients</p>
 
 - [Shape css](https://css-tricks.com/the-shapes-of-css/)
 
